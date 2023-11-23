@@ -58,7 +58,6 @@ Updating...
 
 <b>Portfolio : <a href=https://angelplayer.notion.site/SeungHeon-Shin-a3d2c54fe44444ff9a2453f47f99e415>신승헌 | SeungHeon Shin</a></b>
 
-<div>
 <img style="height:122px;" src="https://github-readme-stats.vercel.app/api?username=ssh5212&show_icons=true&theme=buefy&line_height=21"/>
 <img style="height:122px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssh5212&exclude_repo=deepLearning_3,openCV_test,cnnMnistTest,pythonGam,imageProcessing&layout=compact" />
-</div>
+
