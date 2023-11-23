@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=FFFAFA&height=300&section=header&text=I'm%20Seungheon&fontSize=80&desc=<br/>Hola!&descAlignY=30)
 
-Hola!<br />
-I'm Shin Seungheon, a developer with various interests such as Web, AI, Social Issues, and Design.<br />
-I'm a Front-End Developer who dreams of becoming a Full-Stack Developer.
+Hola!<br /><br />
+I'm <b>Seungheon Shin</b>, a developer with various interests such as Web, AI, Social Issues, and Design.<br /><br />
+I'm a <b>Front-End Developer</b> who dreams of becoming a <b>Full-Stack Developer</b>.
 
 <br /><br />
 
