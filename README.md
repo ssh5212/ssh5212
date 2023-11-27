@@ -40,24 +40,9 @@ I'm a <b>Front-End Developer</b> who dreams of becoming a <b>Full-Stack Develope
 
 <br /><br />
 
-## 📗 Project List
-Updating...
-<!-- <b>Economius<b/>
-🖱️<a href=https://github.com/minpaeng/economius>goto project repository</a>
-
--   Spring boot, Spring Data JPA, stomp-websocket, sockjs-client, Spring Security, oahth2, MySQL, Redis, AWS EC2
--   SSAFY 9th
-    <br> -->
-
-<br /><br />
-
 ## 📖 More information
 
 <b>Blog : <a href=https://angelplayer.tistory.com>AngelPlayer`s Diary</a>
 </b>
 
 <b>Portfolio : <a href=https://angelplayer.notion.site/SeungHeon-Shin-a3d2c54fe44444ff9a2453f47f99e415>신승헌 | SeungHeon Shin</a></b>
-<div>
-<img style="height:122px;" src="https://github-readme-stats.vercel.app/api?username=ssh5212&show_icons=true&theme=buefy&line_height=21"/>
-<img style="height:122px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssh5212&exclude_repo=deepLearning_3,openCV_test,cnnMnistTest,pythonGam,imageProcessing&layout=compact" />
-</div>
