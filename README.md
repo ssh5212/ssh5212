@@ -45,4 +45,4 @@ I'm a <b>Front-End Developer</b> who dreams of becoming a <b>Full-Stack Develope
 <b>Blog : <a href=https://angelplayer.tistory.com>AngelPlayer`s Diary</a>
 </b>
 
-<b>Portfolio : <a href=https://angelplayer.notion.site/SeungHeon-Shin-a3d2c54fe44444ff9a2453f47f99e415>신승헌 | SeungHeon Shin</a></b>
+<b>Portfolio : <a href=https://www.angelplayer.co.kr/>SSH`s Portfolio</a></b>
